@@ -1,0 +1,3 @@
+[submodule "CoAP"]
+	path = CoAP
+	url = https://github.com/highwall/YaCoAP
