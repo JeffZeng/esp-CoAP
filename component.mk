@@ -1,6 +1,6 @@
-INC_DIRS += $(YaCoAP_ROOT)/YaCoAP
+INC_DIRS += $(CoAP_ROOT)/CoAP
 
-YaCoAP_INC_DIR = $(YaCoAP_ROOT)/YACoAP
-YaCoAP_SRC_DIR = $(YaCoAP_ROOT)/YACoAP
+CoAP_INC_DIR = $(CoAP_ROOT)/CoAP
+CoAP_SRC_DIR = $(CoAP_ROOT)/CoAP
 
-$(eval $(call component_compile_rules,YACoAP))
+$(eval $(call component_compile_rules,CoAP))
